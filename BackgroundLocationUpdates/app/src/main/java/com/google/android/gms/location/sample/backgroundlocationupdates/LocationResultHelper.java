@@ -21,11 +21,10 @@ import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
-import android.graphics.Color;
 import android.location.Location;
 import android.preference.PreferenceManager;
-import android.support.v4.app.TaskStackBuilder;
 
+import androidx.core.app.TaskStackBuilder;
 
 import java.text.DateFormat;
 import java.util.Date;
